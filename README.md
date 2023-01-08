@@ -21,4 +21,19 @@
     <td>Microsoft</td>
     <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/">Minimum Deletions to Make Array Divisible</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/rotate-function/">Rotate Function</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/combination-sum-iii/">Combination Sum III</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray/">Shortest Unsorted Continuous Subarray</td>
+  </tr>
 </table>
