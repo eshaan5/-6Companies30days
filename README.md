@@ -36,4 +36,9 @@
     <td>Microsoft</td>
     <td><a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray/">Shortest Unsorted Continuous Subarray</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</td>
+  </tr>
 </table>
