@@ -41,4 +41,9 @@
     <td>Microsoft</td>
     <td><a href="https://leetcode.com/problems/course-schedule/">Course Schedule</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/">Number of Substrings Containing All Three Characters</td>
+  </tr>
 </table>
