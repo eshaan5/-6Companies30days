@@ -51,4 +51,34 @@
     <td>Microsoft</td>
     <td><a href="https://leetcode.com/problems/bulls-and-cows/">Bulls and Cows</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/perfect-rectangle/">Perfect Rectangle</td>
+  </tr>
+  <tr>
+  <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/most-profitable-path-in-a-tree/">Most Profitable Path in a Tree</td>
+  </tr>
+  <tr>
+  <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/number-of-pairs-satisfying-inequality/">Number of Pairs Satisfying Inequality</td>
+  </tr>
+  <tr>
+  <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/longest-happy-prefix/">Longest Happy Prefix</td>
+  </tr>
+  <tr>
+  <td>5</td>
+    <td>Microsoft</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/">Number of Ways to Arrive at Destination</td>
+  </tr>
 </table>
