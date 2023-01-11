@@ -91,8 +91,14 @@
     <td>Goldman Sachs</td>
     <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</td>
   </tr>
+  <tr>
   <td>6</td>
     <td>Goldman Sachs</td>
     <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Factorial Trailing Zeroes</td>
+  </tr>
+  <tr>
+  <td>7</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/number-of-boomerangs/">Number of Boomerangs</td>
   </tr>
 </table>
