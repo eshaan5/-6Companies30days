@@ -81,4 +81,18 @@
     <td>Microsoft</td>
     <td><a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/">Number of Ways to Arrive at Destination</td>
   </tr>
+  <tr>
+  <td>6</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/max-points-on-a-line/">Max Points on a Line</td>
+  </tr>
+  <tr>
+  <td>6</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</td>
+  </tr>
+  <td>6</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Factorial Trailing Zeroes</td>
+  </tr>
 </table>
