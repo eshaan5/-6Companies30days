@@ -101,4 +101,19 @@
     <td>Goldman Sachs</td>
     <td><a href="https://leetcode.com/problems/number-of-boomerangs/">Number of Boomerangs</td>
   </tr>
+  <tr>
+  <td>7</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/invalid-transactions/">Invalid Transactions</td>
+  </tr>
+  <tr>
+  <td>7</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/all-elements-in-two-binary-search-trees/">All Elements in Two Binary Search Trees</td>
+  </tr>
+  <tr>
+  <td>7</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
+  </tr>
 </table>
