@@ -116,4 +116,19 @@
     <td>Goldman Sachs</td>
     <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</td>
   </tr>
+  <tr>
+  <td>9</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/number-of-people-aware-of-a-secret/">Number of People Aware of a Secret</td>
+  </tr>
+  <tr>
+  <td>9</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/">Minimum Consecutive Cards to Pick Up</td>
+  </tr>
+  <tr>
+  <td>9</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/ipo/">IPO</td>
+  </tr>
 </table>
