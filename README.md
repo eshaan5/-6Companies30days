@@ -131,4 +131,29 @@
     <td>Goldman Sachs</td>
     <td><a href="https://leetcode.com/problems/ipo/">IPO</td>
   </tr>
+  <tr>
+  <td>10</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/split-array-into-consecutive-subsequences/">Split Array into Consecutive Subsequences</td>
+  </tr>
+  <tr>
+  <td>10</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/count-good-triplets-in-an-array/">Count Good Triplets in an Array</td>
+  </tr>
+  <tr>
+  <td>10</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/">Get Biggest Three Rhombus Sums in a Grid</td>
+  </tr>
+  <tr>
+  <td>10</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/maximum-good-people-based-on-statements/">Maximum Good People Based on Statements</td>
+  </tr>
+  <tr>
+  <td>10</td>
+    <td>Goldman Sachs</td>
+    <td><a href="https://leetcode.com/problems/maximum-points-in-an-archery-competition/">Maximum Points in an Archery Competition</td>
+  </tr>
 </table>
